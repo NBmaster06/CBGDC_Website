@@ -1,9 +1,9 @@
 *****PAGES*****
 
-About:
+About: [x]
 
-Contact:
+Contact: [x]
 
-Execs:
+Execs: [x]
 
 **************
